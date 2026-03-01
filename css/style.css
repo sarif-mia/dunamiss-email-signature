@@ -16,7 +16,7 @@
 }
 
 .logo-cell {
-    width: 92px;
+    width: 120px;
     vertical-align: top;
 }
 
@@ -145,7 +145,7 @@
 /* Divider styling */
 .divider-line {
     width: 2px;
-    height: 85px;
+    height: 105px;
     background-color: #ecf0f1;
     margin: 0 auto;
     display: block;
