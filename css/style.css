@@ -145,11 +145,10 @@
 /* Divider styling */
 .divider-line {
     width: 2px;
-    height: 105px;
-    background-color: #ecf0f1;
+    height: 135px;
+    background-color: rgb(101, 102, 102);
     margin: 0 auto;
     display: block;
-    border-radius: 1px;
 }
 
 .divider-wrapper {
