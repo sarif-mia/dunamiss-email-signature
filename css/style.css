@@ -90,13 +90,19 @@
     font-size: 11px;
     font-family: Arial, sans-serif;
     color: #95a5a6;
-    padding-bottom: 1px;
+    padding-bottom: 2px;
     line-height: 16px;
 }
 
+/* Ensure table cells inside content area have comfortable vertical spacing */
+.content-cell table td {
+    padding-bottom: 2px;
+}
+
 .social-icons-container {
-    padding-top: 12px;
+    padding-top: 16px;
     vertical-align: bottom;
+    white-space: nowrap;
 }
 
 .social-icon {
